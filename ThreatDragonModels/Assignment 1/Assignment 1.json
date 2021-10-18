@@ -2,10 +2,20 @@
   "summary": {
     "title": "Assignment 1",
     "owner": "YE-Hordijk",
-    "description": "dit is een diagram."
+    "description": "Data flow diagram of a Brigthspace course system"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "LIACS Security Course teachers"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Brightspace sourse system",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
